@@ -1,2 +1,0 @@
-# gangAttack
-Script Fivem Lua
